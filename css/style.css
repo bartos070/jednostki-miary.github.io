@@ -30,3 +30,11 @@ html {
 #procent {
     width: 50%;
 }
+
+#vw {
+    width: 60vw;
+}
+
+#vh {
+    width: 60vh;
+}
