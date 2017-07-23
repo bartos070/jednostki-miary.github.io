@@ -1,0 +1,16 @@
+#container > div {
+    background-color: rgba(0, 255, 255, 0.6);
+    margin-bottom: 15px;
+}
+
+#container {
+    font-size: 30px
+}
+
+#piksele {
+    width: 400px;
+}
+
+#em {
+    width: 20em
+}
