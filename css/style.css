@@ -12,5 +12,9 @@
 }
 
 #em {
-    width: 20em
+    width: 20em;
+}
+
+#ex {
+    width: 20ex;
 }
